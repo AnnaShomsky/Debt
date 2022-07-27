@@ -16,3 +16,10 @@ This project takes data from the IMF about debt. Once the dataset was cleaned an
 <img width="915" alt="Screen Shot 2022-07-15 at 8 02 25 PM" src="https://user-images.githubusercontent.com/98672738/179845383-fcfd7dbe-0423-457d-a824-3dbe8ed781ac.png">
 
 # Debt
+
+
+<img width="1129" alt="Screen Shot 2022-07-27 at 1 36 06 PM" src="https://user-images.githubusercontent.com/98672738/181367498-28982ebe-0b14-4232-968e-6a7eb8650080.png">
+
+<img width="1125" alt="Screen Shot 2022-07-27 at 1 36 19 PM" src="https://user-images.githubusercontent.com/98672738/181367518-e528fed3-9b43-4a10-9f0f-71029cdb6c67.png">
+
+<img width="1101" alt="Screen Shot 2022-07-27 at 1 36 32 PM" src="https://user-images.githubusercontent.com/98672738/181367539-52a65b35-a4cb-48d6-8b7a-b0f2a6662645.png">
