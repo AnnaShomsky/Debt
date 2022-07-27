@@ -1,6 +1,8 @@
 # Debt
 Analysis of IMF data about debt 
-This project takes data from the IMF about debt. Once the dataset was cleaned and mnelded, it had over 1.5 million rows. 
+This project takes data from the IMF about debt. Once the dataset was cleaned and melded, it had over 1.5 million rows. 
+
+The program deals with interest as a percent of GNI, interest rates, balance, grace periods, and principal forgiveness. 
 
 
 
